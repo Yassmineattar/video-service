@@ -1,7 +1,7 @@
-package ma.xproce.videoserver.web;
+package ma.xproce.videoservice.web;
 
-import ma.xproce.videoserver.dao.entities.Video;
-import ma.xproce.videoserver.service.VideoService;
+import ma.xproce.videoservice.dao.entities.Video;
+import ma.xproce.videoservice.service.VideoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

@@ -1,6 +1,6 @@
-package ma.xproce.videoserver.service;
+package ma.xproce.videoservice.service;
 
-import ma.xproce.videoserver.dao.entities.Creator;
+import ma.xproce.videoservice.dao.entities.Creator;
 
 import java.util.List;
 

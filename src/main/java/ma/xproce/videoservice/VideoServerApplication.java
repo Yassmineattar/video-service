@@ -1,15 +1,14 @@
-package ma.xproce.videoserver;
+package ma.xproce.videoservice;
 
-import ma.xproce.videoserver.dao.entities.Creator;
-import ma.xproce.videoserver.dao.entities.Video;
-import ma.xproce.videoserver.dao.repositories.CreatorRepository;
-import ma.xproce.videoserver.dao.repositories.VideoRepository;
+import ma.xproce.videoservice.dao.entities.Creator;
+import ma.xproce.videoservice.dao.entities.Video;
+import ma.xproce.videoservice.dao.repositories.CreatorRepository;
+import ma.xproce.videoservice.dao.repositories.VideoRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
-import java.util.Date;
 import java.util.List;
 
 @SpringBootApplication

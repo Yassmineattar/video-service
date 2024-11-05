@@ -1,4 +1,4 @@
-package ma.xproce.videoserver.dao.entities;
+package ma.xproce.videoservice.dao.entities;
 
 import com.fasterxml.jackson.annotation.JsonSubTypes;
 import jakarta.persistence.*;

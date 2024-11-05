@@ -1,7 +1,7 @@
-package ma.xproce.videoserver.service;
+package ma.xproce.videoservice.service;
 
-import ma.xproce.videoserver.dao.entities.Creator;
-import ma.xproce.videoserver.dao.repositories.CreatorRepository;
+import ma.xproce.videoservice.dao.entities.Creator;
+import ma.xproce.videoservice.dao.repositories.CreatorRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package ma.xproce.videoserver.dao.entities;
+package ma.xproce.videoservice.dao.entities;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
